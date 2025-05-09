@@ -1,0 +1,68 @@
+.messaging-container {
+  margin-top: 80px;
+  background-color: #EBEBEB !important;
+  padding:2%;
+  height: 100vh;
+}
+
+.conversation-list {
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+}
+
+.conversation-item {
+  cursor: pointer;
+}
+
+.chat-body {
+  max-height: calc(100vh - 180px);
+  overflow-y: auto;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.message-text {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.message.text-end .message-text {
+  background-color: #00754F;
+  color: white;
+}
+
+.list-group-item.active {
+  background-color: #EBEBEB !important;
+  border-color: #EBEBEB !important;
+  color: #5F5F5F !important;
+}
+
+.bigi .bigi-1 {
+  background-color: #EBEBEB !important;
+}
+
+.bigi-1 {
+  visibility: hidden;
+}
+
+.mess {
+  border-radius: 15%;
+}
+
+.central-section {
+  border: 0.5px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 50px;
+}
+
+.central-section .mess {
+  border-radius: 15px;
+  width: 100%;
+  height: 100%;
+}

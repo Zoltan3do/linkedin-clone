@@ -1,0 +1,15 @@
+.truncate-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.overLink:hover {
+    text-decoration: underline;
+}
+
+
+.no-space{
+    line-height: 1 !important;
+    vertical-align: middle;
+}

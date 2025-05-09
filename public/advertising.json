@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "company": "Alfa Solutions S.p.A.",
+    "message": "Rimani al corrente sulle ultime notizie da Alfa Solutions S.p.A.",
+    "cta": "Segui",
+    "logoUrl": "https://www.alfa-solutions.it/wp-content/uploads/2019/08/alf_logo.png",
+    "url": "https://www.alfa-solutions.it/"
+  },
+  {
+    "id": 2,
+    "company": "Beta Tech Inc.",
+    "message": "Tieniti aggiornato con Beta Tech Inc.",
+    "cta": "Segui",
+    "logoUrl": "https://i0.wp.com/btieng.com/wp-content/uploads/2021/03/cropped-logo_b.png?fit=545%2C150&ssl=1",
+    "url": "https://btieng.com/"
+  },
+  {
+    "id": 3,
+    "company": "Gamma Enterprises",
+    "message": "Scopri le novità da Gamma Enterprises.",
+    "cta": "Scopri",
+    "logoUrl": "https://www.readytec.it/wp-content/uploads/2022/12/ts-gamma-enterprise.jpg",
+    "url": "https://content.cata.it/demo-teamsystem-erp-2024?utm_term=gestionale%20per%20imprese&utm_campaign=2024+%7C+Demo+TeamSystem+Enterprise+-+Lead+Gen&utm_source=adwords&utm_medium=ppc&hsa_acc=8751971672&hsa_cam=21499074222&hsa_grp=165386450379&hsa_ad=706974141050&hsa_src=g&hsa_tgt=kwd-424166211756&hsa_kw=gestionale%20per%20imprese&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8nXbhw0Gfdifzia1VaAdd909E5-kxC0d1SfENmZWTryhfz7iUJOVshoC1aIQAvD_BwE"
+  },
+  {
+    "id": 4,
+    "company": "Delta Services Ltd.",
+    "message": "Delta Services ti tiene informato sulle ultime notizie.",
+    "cta": "Scopri",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x2kf2T99H23bk9QbE6PPEMzjXjxJrHA4Kg&s",
+    "url": "https://delta-services.org/"
+  },
+  {
+    "id": 5,
+    "company": "Epsilon Solutions",
+    "message": "Rimani al corrente con Epsilon Solutions.",
+    "cta": "Segui",
+    "logoUrl": "https://epsilonxr.com/wp-content/themes/epsilonxr/assets/img/epsilonxr-logo.png",
+    "url": "https://www.epsilonsolutions.ca/"
+  },
+  {
+    "id": 6,
+    "company": "Zeta Innovations",
+    "message": "Rimani informato con Zeta Innovations.",
+    "cta": "Segui",
+    "logoUrl": "https://s.yimg.com/ny/api/res/1.2/1mQFboYn8kK52bB1soOQxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTIwMg--/https://media.zenfs.com/en/business-wire.com/8ae219cc91d055b2120795cf620902ad",
+    "url": "https://www.linkedin.com/company/zeta-innovation-labs/"
+  },
+  {
+    "id": 7,
+    "company": "Eta Tech",
+    "message": "Segui Eta Tech per le ultime novità.",
+    "cta": "Scopri",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vu2v_OFv7o7DY1ctaNhnc_Fi4HdzCq-MbA&s",
+    "url": "https://www.etatech.info/"
+  },
+  {
+    "id": 8,
+    "company": "Theta Corporation",
+    "message": "Ricevi aggiornamenti da Theta Corporation.",
+    "cta": "Segui",
+    "logoUrl": "https://lh4.googleusercontent.com/proxy/fR9ec8yQpt24DXh5rnq9Mp1rpaS102fePg24RXK3wPbFrTvI3KeyIrXYzq1lWbdsMB06JlXy_Qk",
+     "url": "http://www.thetacorp.com/"
+  },
+  {
+    "id": 9,
+    "company": "Iota Solutions",
+    "message": "Tieniti aggiornato con Iota Solutions.",
+    "cta": "Segui",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFifEehvWnpI7T0nEHyLvVBR7cOZ2n3-TldQ&s",
+    "url": "https://iotasolutions.io/"
+  },
+  {
+    "id": 10,
+    "company": "Robopac",
+    "message": "Scopri le ultime da Robopac.",
+    "cta": "Segui",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGm2h1BibRgLQudFJL3WatGGRtr-gfNPqeMQ&s",
+    "url": "https://www.robopac.com/it"
+  }
+]

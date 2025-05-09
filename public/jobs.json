@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Manpower",
+    "followers": 1294358,
+    "description": "Selezione e ricerca di personale",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycB-0PQFt5ISWJrLdthrWYJ2HcGguKoHv2Dxw5HS-BtL6hWcOI2W2Fe8SG6ZpgLFWdWc&usqp=CAU"
+  },
+  {
+    "name": "Gi Group",
+    "followers": 1533362,
+    "description": "Selezione e ricerca di personale",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE49wpiF--ee2FkBzb1fi0DYPz_d4x681Cg&s"
+  },
+  {
+    "name": "Adecco",
+    "followers": 2001500,
+    "description": "Selezione e ricerca di personale",
+    "image": "https://adeccogroup.it/wp-content/uploads/2017/01/Adecco600x280.png"
+  },
+  {
+    "name": "Randstad",
+    "followers": 1894300,
+    "description": "Servizi per il lavoro",
+    "image": "https://www.sodalitas.it/public/Logo-Randstad-vert.-digitale_BLU.jpg"
+  },
+  {
+    "name": "Kelly Services",
+    "followers": 945000,
+    "description": "Servizi per il lavoro",
+    "image": "https://multimedia.infojobs.it/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b3/b37de7a4-3694-4940-bca1-373e184b9607?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MzgyNjkzNTEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iMy9iMzdkZTdhNC0zNjk0LTQ5NDAtYmNhMS0zNzNlMTg0Yjk2MDciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.GrUw8FycQ7ZHx9wa7pVLgyqhTU3ORS5nBqEjScM2wNgxPtwawkOv-8Oc2-LT22nZwhjuBjkdc2igqRvNOGSAZILXKb3qftraqTW2kPgK-jAfX2MSzB2I9RkkQHbXqU1CCCMStFX3hOiuE8pTzzAQwMzjjLEmvNFMl62kNBVJEPGpn5GD-yk0-MogpKW_B9nhfsF9KDYUXSvsMJgCftAW5jmcDwWtGh7BiNIR2Uz4a-sKb8qteHUnxjHsUL-oIG-xPgiIjKICp7Eh3vgsL50o-wok27Ex59ivXTVVKtC09P0CH3_mSiemcbxbbmRw72H0ZJ8gFSyenPtEsmdXWKaE_w&AccessKeyId=d724d9a53d95a810"
+  },
+  {
+    "name": "Hays",
+    "followers": 675000,
+    "description": "Ricerca e selezione",
+    "image": "https://s3-symbol-logo.tradingview.com/hays-plc-ord-1p--600.png"
+  },
+  {
+    "name": "Page Personnel",
+    "followers": 1543500,
+    "description": "Servizi di recruiting",
+    "image": "https://www.pagepersonnel.it/sites/pagepersonnel.it/files/2021-04/PP_sharelogo.png"
+  },
+  {
+    "name": "WinTime",
+    "followers": 1452300,
+    "description": "Selezione di personale",
+    "image": "https://www.wintimelavoro.com/assets/images/wintime_logo.png"
+  },
+  {
+    "name": "Synergie",
+    "followers": 1352500,
+    "description": "Ricerca di personale",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAiWj63Fe8mfmpdRmpv9a3R6VJEOkDDha5A&s"
+  },
+  {
+    "name": "Alten",
+    "followers": 1235000,
+    "description": "Servizi di consulenza",
+    "image": "https://www.alten.it/wp-content/uploads/sites/5/2021/07/altenlinkedin.png"
+  }
+]

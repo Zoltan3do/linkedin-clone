@@ -1,0 +1,297 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Profile Style */
+
+body {
+  font-family: "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #f4f2ee;
+}
+
+main {
+  padding-top: 25px;
+}
+
+.suggestions-button {
+  background-color: white !important;
+  border: gray 1px solid !important;
+  border-radius: 28px;
+  color: gray;
+  font-weight: 600;
+}
+.suggestions-button:hover {
+  border: 2px solid gray !important;
+  background-color: rgb(233, 233, 233) !important;
+  color: gray;
+}
+
+body{
+  background-color: #f4f2ee;
+}
+.bi-pencil {
+  color: black !important;
+}
+.btn-person {
+  border: 1px solid gray !important;
+  color: gray !important;
+  font-weight: 600;
+  border-radius: 30px;
+}
+.modal-body-language {
+  background-color: rgb(250, 250, 250);
+}
+.bi-globe {
+  color: green;
+  height: 90px !important;
+}
+
+.bi-grid-3x3-gap-fill {
+  font-size: 20px;
+}
+
+.btn-modal-italiano {
+  border: 1px solid rgb(189, 188, 188);
+  border-radius: 30px;
+  color: rgb(43, 43, 43) !important;
+  font-weight: 500;
+}
+.btn-modal-italiano:hover {
+  box-shadow: 0px 0px 0px 1px gray inset;
+  background-color: rgb(233, 233, 233) !important;
+}
+.btn-add-language {
+  border-radius: 30px;
+  color: #0d6efd;
+  font-weight: 500;
+}
+.btn-add-language:hover {
+  background-color: #d4e5ff !important;
+  color: #0d6efd;
+  box-shadow: 0px 0px 0px 1px #0d6efd inset;
+}
+.bi-globe {
+  font-size: 40px;
+}
+.bi-eyeglasses {
+  font-size: 40px;
+}
+.bi-lightbulb {
+  font-size: 25px;
+}
+.mtlr:hover {
+  background-color: rgb(229, 229, 229);
+  transition: all 0.5s ease;
+}
+.bi-grid-3x3-gap-fill {
+  font-size: 20px;
+}
+
+.premium-link {
+  color: #915907;
+  width: 125px !important;
+  margin-left: 8px;
+  text-align: center;
+  text-decoration: underline;
+  box-sizing: content-box;
+}
+
+.postmodal-btn {
+  width: 56px;
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.pointer {
+  cursor: pointer;
+}
+
+.fs-7 {
+  font-size: 0.9rem;
+}
+
+.fs-8 {
+  font-size: 0.75rem;
+}
+
+
+
+.d-flex-475 {
+  display: none !important;
+}
+
+.d-flex-400 {
+  display: none !important;
+}
+
+@media screen and (max-width: 475px) {
+  .d-none-475 {
+    display: none !important;
+  }
+  .d-flex-475 {
+    display: flex !important;
+  }
+}
+@media screen and (max-width: 350px) {
+  .none {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .d-none-400 {
+    display: none !important;
+  }
+  .d-flex-400 {
+    display: flex !important;
+  }
+  .privacy-condition {
+    width: 80px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+/* button add post */
+.addpost-btn {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(224, 224, 224);
+}
+.btn-public {
+  background-color: rgb(224, 224, 224);
+  color: black;
+  border-radius: 30px;
+  width: 100px;
+}
+/* attività */
+.name-activities {
+  font-weight: 600;
+}
+.text-activities {
+  font-size: 14px;
+}
+.img-post {
+  width: 50px;
+}
+
+.bg-gray-hover:hover {
+  background-color: rgba(140 140 140/0.1);
+  transition: 300ms;
+}
+
+.bg-gray {
+  background-color: rgba(140 140 140/0.2) !important;
+}
+
+.bg-darkgray-hover:hover {
+  background-color: #bcc5ce;
+  transition: 300ms;
+}
+
+.progress {
+  background-color: rgb(140 140 140/0.2) !important;
+  height: 8px;
+  width: 100%;
+}
+
+.progress-bar {
+  background-color: #212529bb !important;
+}
+
+.span-bullet {
+  border-radius: 50%;
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin: 0 1.2rem 2px 14px;
+  border: 3px solid black;
+}
+
+.btn-homepost {
+  background-color: transparent;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.btn-homepost:hover {
+  border: gray !important;
+  background-color: rgb(233, 233, 233) !important;
+  color: gray;
+}
+
+.btn-starthomepost {
+  background-color: white !important;
+  border: gray 1px solid !important;
+  border-radius: 28px;
+  color: gray;
+  text-align: start;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.btn-starthomepost:hover {
+  border: 1px solid gray !important;
+  background-color: #eeeeee !important;
+  color: gray;
+}
+.ft {
+  font-size: 12px;
+}
+.dropdown-menu-white {
+  box-shadow: 5px 5px 5px #dedede;
+}
+
+.hero {
+  height: 200px;
+  background: url(https://picsum.photos/2000/700);
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+.propic-container {
+  width: 10em;
+  height: 10em;
+  left: 25px;
+  top: 88px;
+}
+
+.objectfit-cover {
+  object-fit: cover;
+}
+
+
+
+.boxshadow-0 {
+  box-shadow: none !important;
+}
+
+.btn-jobsidebar {
+  border-radius: 2.4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.comment {
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}

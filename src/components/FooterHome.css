@@ -1,0 +1,67 @@
+.footixHome {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footixHome .text-muted {
+  color: #6c757d;
+}
+
+.footixHome .text-muted:hover {
+  color: #343a40;
+}
+
+.footixHome .dropdown-menu {
+  min-width: 200px;
+}
+
+.footixHome .dropdown-item {
+  font-size: 0.875rem;
+}
+
+.footixHome img {
+  vertical-align: middle;
+}
+
+.footixHome p {
+  font-size: 0.875rem;
+  margin-bottom: 0;
+}
+
+.footixHome a {
+  color: #6c757d;
+  font-size: 0.875rem;
+  margin-right: 15px;
+}
+
+.footixHome a:hover {
+  color: #0a66c2 !important; 
+  text-decoration: underline !important;
+}
+
+.footixHome ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.footixHome li {
+  display: inline-block;
+}
+
+.footixHome .footer-divider {
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+.footixHome .linkedin-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.list-unstyled{
+  margin-bottom: 0;
+}
+.information{
+  color: #bc9bde;
+}
